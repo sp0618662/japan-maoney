@@ -1,1 +1,1 @@
-# japan-maoney
+# japan-money
